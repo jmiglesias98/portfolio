@@ -1,5 +1,5 @@
 title: Juan Miguel Iglesias Labraca
 logo: 12261 30-I0-24 JUAN MIGUEL IGLESIAS_2.jpg
 #description:
-show_downloads
+show_downloads: true
 theme: jekyll-theme-minimal
